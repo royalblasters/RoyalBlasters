@@ -1,0 +1,63 @@
+
+  body{
+    background-image: linear-gradient(to top, #eeff00 0%, #ffee00 100%);
+  }
+  .invert{
+    border-radius: 50%;
+  }
+  
+  .nav-item a{
+    color:black;
+    width: 100%; !important
+  }
+  .nav-item a:hover {
+    color:#fff;
+    background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
+    /* border-radius: 25px; */
+    transition: all 5ms;
+    padding: 10px;
+  }
+  .nav-item{
+    min-width:12vw;
+  }
+  #mainNavigation {
+    /* height: 100vh; */
+    /* position:fixed;
+    top:0;
+    left:0;
+    width:100%;
+    z-index:123;
+    padding-bottom:120px; */
+    /* background-image: url(jeremy-bishop-G9i_plbfDgk-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center; */
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#000000+0,000000+100&0.65+0,0+100;Neutral+Density */
+  /* background: -moz-linear-gradient(top,  rgba(0,0,0,0.65) 0%, rgba(0,0,0,0) 100%); FF3.6-15 */
+  /* background: -webkit-linear-gradient(top,  rgba(0,0,0,0.65) 0%,rgba(0,0,0,0) 100%); Chrome10-25,Safari5.1-6 */
+  /* background: linear-gradient(to bottom,  rgba(0,0,0,0.65) 0%,rgba(0,0,0,0) 100%); W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  /* filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a6000000', endColorstr='#00000000',GradientType=0 ); IE6-9 */
+  
+ 
+ 
+
+}
+  #navbarNavDropdown.collapsing .navbar-nav,
+  #navbarNavDropdown.show .navbar-nav{
+    background:#037582;
+    padding:12px;
+  }
+ .scard{
+    width: 200px;
+    
+ }
+ .table{
+    background-color: transparent;
+ }
+ .container1{
+  height: 100%;
+  width: 100%;
+  text-align: center;
+
+ }
+ 
